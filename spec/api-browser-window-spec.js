@@ -3127,6 +3127,7 @@ describe('BrowserWindow module', () => {
         typeofArrayPush: 'number',
         typeofFunctionApply: 'boolean',
         typeofPreloadExecuteJavaScriptProperty: 'number',
+        typeofOpenedWindowLocation: 'string',
         typeofOpenedWindow: 'object'
       }
     }
